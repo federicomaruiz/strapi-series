@@ -1,0 +1,17 @@
+.btn-primary {
+    background: #1e7792;
+    color: white;
+    text-decoration: none;
+    padding: 15px 15px;
+    display: inline-block;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.5s;
+  }
+
+img{
+    width:400px;
+    height:400px;
+}
